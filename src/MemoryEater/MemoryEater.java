@@ -1,3 +1,5 @@
+package MemoryEater;
+
 /**
  * Created by Maciej on 2015-03-13.
  */
