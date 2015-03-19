@@ -17,6 +17,8 @@ Ram: 4Gb
 - Test 3: Alokacje w 1 wątku. Obiekty o zmienny rozmiarze
 - Test 4: Alokacje w 4 wątkach. Obiekty o zmiennym rozmiarze
 
+##Sposób testowania
+Każdy fragment (klasą zawiąrające definicje jednego testu) był odpalany osobno od całej reszty. Dlatego wyniki czasem mniej lub bardziej się rozbiegają. Ale każdy test był zawsze wynowywanej na "czystej" pamięci.
 
 ##Wyniki czasowe
 ---
