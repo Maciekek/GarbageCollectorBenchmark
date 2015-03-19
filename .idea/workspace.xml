@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a56685fa-b6b3-4a83-aa55-25ca3789cb04" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Maciek\Desktop\GarbageCollectorBenchmark\src\Main.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maciek\Desktop\GarbageCollectorBenchmark\src\MemoryEater.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maciek\Desktop\GarbageCollectorBenchmark\src\Test1.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maciek\Desktop\GarbageCollectorBenchmark\src\Test2.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maciek\Desktop\GarbageCollectorBenchmark\src\Test3.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Maciek\Desktop\GarbageCollectorBenchmark\src\Test4.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main/Main.java" afterPath="$PROJECT_DIR$/src/Main/Main.java" />
     </list>
     <ignored path="Lab4.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -85,10 +78,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test2TimeForNAlloc.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test2TimeForNAlloc.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test2/Test2TimeForNAlloc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4040747" vertical-offset="0" max-vertical-offset="589">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
               <caret line="14" column="105" selection-start-line="14" selection-start-column="105" selection-end-line="14" selection-end-column="105" />
               <folding />
             </state>
@@ -105,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1972">
-              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.2886248" vertical-offset="51" max-vertical-offset="901">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -154,8 +147,8 @@
         <option value="$PROJECT_DIR$/src/Test1/Test1CountAllocObjects.java" />
         <option value="$PROJECT_DIR$/src/Test2/Test2CountAllocObjects.java" />
         <option value="$PROJECT_DIR$/src/Test4/Test4TimeForNAlloc.java" />
-        <option value="$PROJECT_DIR$/src/Main/Main.java" />
         <option value="$PROJECT_DIR$/src/Test4/Test4CountAllocObjects.java" />
+        <option value="$PROJECT_DIR$/src/Main/Main.java" />
       </list>
     </option>
   </component>
@@ -776,12 +769,12 @@
       <workItem from="1426773683682" duration="4509000" />
       <workItem from="1426793450201" duration="109000" />
       <workItem from="1426794125106" duration="8110000" />
-      <workItem from="1426802345295" duration="871000" />
+      <workItem from="1426802345295" duration="1478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24200000" />
+    <option name="totallyTimeSpent" value="24807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1222" height="1050" extended-state="0" />
@@ -983,16 +976,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1972">
-          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test4/Test4CountAllocObjects.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
@@ -1009,6 +992,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test2/Test2TimeForNAlloc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <caret line="14" column="105" selection-start-line="14" selection-start-column="105" selection-end-line="14" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test3/Test3TimeForNAlloc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
@@ -1017,11 +1008,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test2/Test2TimeForNAlloc.java">
+    <entry file="file://$PROJECT_DIR$/src/Main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4040747" vertical-offset="0" max-vertical-offset="589">
-          <caret line="14" column="105" selection-start-line="14" selection-start-column="105" selection-end-line="14" selection-end-column="105" />
-          <folding />
+        <state vertical-scroll-proportion="0.2886248" vertical-offset="51" max-vertical-offset="901">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
